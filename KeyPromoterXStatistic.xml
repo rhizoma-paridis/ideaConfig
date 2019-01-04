@@ -1,0 +1,30 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Popup RESTful Toolkit ...">
+        <Item>
+          <IdeaActionID>Popup.PopupChoiceAction</IdeaActionID>
+          <ShortCut>'Alt+Shift+R'</ShortCut>
+          <Description>Popup RESTful Toolkit ...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Camel Case">
+        <Item>
+          <IdeaActionID>de.netnexus.CamelCasePlugin.ToggleCamelCase</IdeaActionID>
+          <ShortCut>'Alt+Shift+U'</ShortCut>
+          <Description>Toggle Camel Case</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
