@@ -1,0 +1,200 @@
+<application>
+  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" outerIgnoreWrapperHeight="81" version="2.6.2" starredTemplates="" unignoreActions="true" hideIgnoredFiles="false" informTrackedIgnored="true" notifyIgnoredEditing="true">
+    <languages>
+      <language id="Bazaar" NEW_FILE="true" ENABLE="true" />
+      <language id="CloudFoundry" NEW_FILE="true" ENABLE="false" />
+      <language id="Chef" NEW_FILE="true" ENABLE="false" />
+      <language id="Cvs" NEW_FILE="true" ENABLE="true" />
+      <language id="Darcs" NEW_FILE="true" ENABLE="true" />
+      <language id="Docker" NEW_FILE="true" ENABLE="false" />
+      <language id="ElasticBeanstalk" NEW_FILE="true" ENABLE="false" />
+      <language id="ESLint" NEW_FILE="true" ENABLE="false" />
+      <language id="Floobits" NEW_FILE="true" ENABLE="false" />
+      <language id="Fossil" NEW_FILE="true" ENABLE="true" />
+      <language id="Git" NEW_FILE="true" ENABLE="true" />
+      <language id="Git exclude" NEW_FILE="true" ENABLE="true" />
+      <language id="Kubernetes Helm" NEW_FILE="true" ENABLE="false" />
+      <language id="Jetpack" NEW_FILE="true" ENABLE="false" />
+      <language id="JSHint" NEW_FILE="true" ENABLE="false" />
+      <language id="Mercurial" NEW_FILE="true" ENABLE="true" />
+      <language id="Monotone" NEW_FILE="true" ENABLE="true" />
+      <language id="Nodemon" NEW_FILE="true" ENABLE="false" />
+      <language id="Npm" NEW_FILE="true" ENABLE="false" />
+      <language id="Perforce" NEW_FILE="true" ENABLE="true" />
+      <language id="Prettier" NEW_FILE="true" ENABLE="false" />
+      <language id="StyleLint" NEW_FILE="true" ENABLE="false" />
+      <language id="Stylint" NEW_FILE="true" ENABLE="false" />
+      <language id="Swagger Codegen" NEW_FILE="true" ENABLE="false" />
+      <language id="Team Foundation" NEW_FILE="true" ENABLE="true" />
+      <language id="Up" NEW_FILE="true" ENABLE="false" />
+    </languages>
+    <userTemplates>
+      <template name="Example user template">### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen</template>
+      <template name="tw template">### Example user template 
+rebel.xml
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+### Eclipse template
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored &quot;Eclipse launch configurations&quot;
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+
+# Scala IDE specific (Scala &amp; Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar</template>
+      <template name="tw_ignore">### tw template template
+### user template
+rebel.xml
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+### Eclipse template
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+.classpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored &quot;Eclipse launch configurations&quot;
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+
+# Scala IDE specific (Scala &amp; Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar</template>
+    </userTemplates>
+  </component>
+</application>

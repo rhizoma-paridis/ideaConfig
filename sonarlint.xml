@@ -1,0 +1,18 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:S1854" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000" />
+          <token>df9edfccdf9ddf9edf9bdfc9df9fdfc8df9ddf9adf93dfccdfcfdfc8dfccdfcbdf9adfc8df93df92df9adfc9df9cdf9cdf93df9adf9adf9edfc8df9fdfccdf9adf9bdf9adfccdfcbdf98df99dfcbdf9d</token>
+          <option name="name" value="test" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
