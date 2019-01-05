@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -54,6 +54,14 @@
           <IdeaActionID>de.netnexus.CamelCasePlugin.ToggleCamelCase</IdeaActionID>
           <ShortCut>'Alt+Shift+U'</ShortCut>
           <Description>Toggle Camel Case</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
