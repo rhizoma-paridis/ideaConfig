@@ -25,6 +25,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Favorites</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Popup RESTful Toolkit ...">
         <Item>
           <IdeaActionID>Popup.PopupChoiceAction</IdeaActionID>
