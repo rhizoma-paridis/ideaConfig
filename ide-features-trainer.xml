@@ -22,7 +22,7 @@
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
-        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
@@ -143,6 +143,38 @@
             <StatisticData>
               <option name="state" value="STARTED" />
               <option name="timestamp" value="1547286371283" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1547286890529" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1547286987058" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="93132" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1547286989734" />
             </StatisticData>
           </value>
         </entry>
