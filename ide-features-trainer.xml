@@ -9,9 +9,9 @@
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
-        <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
+        <entry key="Completions.BasicCompletion" value="PASSED" />
         <entry key="Completions.CompletionwithTab" value="PASSED" />
-        <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
+        <entry key="Completions.SmartTypeCompletion" value="PASSED" />
         <entry key="Completions.StatementCompletion" value="PASSED" />
         <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
         <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
@@ -61,8 +61,8 @@
         <entry key="Completions.BasicCompletion">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1547286572756" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="1074617" />
             </StatisticData>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="Completions.SmartTypeCompletion">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1547286657042" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="937879" />
             </StatisticData>
           </value>
         </entry>
