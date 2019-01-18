@@ -1,5 +1,5 @@
 <templateSet group="other">
-  <template name="date" value="date $DATE$ $TIME$" description="insert date" toReformat="true" toShortenFQNames="true">
+  <template name="date" value="$DATE$ $TIME$" description="insert date" toReformat="true" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -13,6 +13,8 @@
       <option name="GSP" value="false" />
       <option name="HAML" value="false" />
       <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="JSON" value="false" />
       <option name="JSP" value="false" />
