@@ -32,7 +32,7 @@
               <option name="commandLine" value="site" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean install" />
+              <option name="commandLine" value="clean package -Dmaven.test.skip=true" />
             </Goal>
           </list>
         </option>
