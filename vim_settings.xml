@@ -12,25 +12,27 @@
         <mark key="^" line="8" column="70" />
         <mark key="." line="8" column="70" />
       </file>
-      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" timestamp="1553852102673">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
+      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" timestamp="1553856576842">
+        <mark key="'" line="19" column="19" />
         <mark key="^" line="18" column="31" />
       </file>
     </filemarks>
     <jumps>
       <jump line="26" column="12" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="22" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
+      <jump line="21" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
+      <jump line="0" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
+      <jump line="19" column="19" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoKSB7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsK</text>
@@ -53,13 +55,21 @@
       <register name="-" type="4">
         <text>:</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set keep-english-in-normal</entry>
