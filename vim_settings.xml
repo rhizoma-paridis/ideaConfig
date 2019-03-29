@@ -12,11 +12,11 @@
         <mark key="^" line="8" column="70" />
         <mark key="." line="8" column="70" />
       </file>
-      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" timestamp="1553851342761">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" timestamp="1553851893562">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -29,8 +29,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsK</text>
@@ -47,6 +47,12 @@
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBpZ2VvbiBpcyBjb25zdW1pbmcgIiArIHRyYXNoVHlwZU5hbWUpOwo=</text>
       </register>
+      <register name=":" type="4">
+        <text>set keep-english-in-normal</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
@@ -54,7 +60,10 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
+        <entry>set keep-english-in-normal</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
