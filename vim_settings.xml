@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553912555781">
+      <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553913728861">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553913852825">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
         <mark key="[" line="8" column="55" />
@@ -28,6 +31,7 @@
       <jump line="17" column="0" filename="E:/myFootprint/slark-pring/pom.xml" />
       <jump line="26" column="12" filename="E:/myFootprint/slark-pring/pom.xml" />
       <jump line="0" column="0" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="30" column="47" filename="E:/myFootprint/slark-pring/pom.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -100,6 +104,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
