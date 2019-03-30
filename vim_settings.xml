@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553850898961">
-        <mark key="'" line="26" column="12" />
+      <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553912555781">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
         <mark key="[" line="8" column="55" />
@@ -12,17 +12,22 @@
         <mark key="^" line="8" column="70" />
         <mark key="." line="8" column="70" />
       </file>
-      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" timestamp="1553856576842">
+      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" timestamp="1553856644947">
         <mark key="'" line="19" column="19" />
         <mark key="^" line="18" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="12" filename="E:/myFootprint/slark-pring/pom.xml" />
       <jump line="22" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
       <jump line="21" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
       <jump line="0" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
       <jump line="19" column="19" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
+      <jump line="50" column="12" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="25" column="12" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="70" column="0" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="17" column="0" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="26" column="12" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="0" column="0" filename="E:/myFootprint/slark-pring/pom.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -89,6 +94,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
