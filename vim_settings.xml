@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553913728861">
+      <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553925597758">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="52" column="43" />
+        <mark key="^" line="52" column="43" />
+        <mark key="." line="52" column="43" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/webapp/WEB-INF/web.xml" timestamp="1553916902475">
         <mark key="[" line="25" column="91" />
@@ -14,6 +18,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1553913852825">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/dao/UserDao.java" timestamp="1553926306391">
+        <mark key="[" line="31" column="88" />
+        <mark key="]" line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="29" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
         <mark key="[" line="8" column="55" />
@@ -57,7 +67,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoU3RyaW5nIHVzZXIpIHsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
@@ -81,7 +91,7 @@
         <text>set keep-english-in-normal</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
@@ -126,6 +136,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
