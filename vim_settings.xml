@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553925597758">
@@ -44,7 +44,13 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="E:/ideaProj/trawe-parking/parkingtoll/src/main/webapp/WEB-INF/springMVC-servlet.xml" timestamp="1553918767274" />
+      <file name="E:/myFootprint/parking/src/test/java/cn/trawe/parking/domain/HelloTest.java" timestamp="1554099293093">
+        <mark key="'" line="78" column="40" />
+        <mark key="[" line="129" column="48" />
+        <mark key="]" line="129" column="51" />
+        <mark key="." line="129" column="51" />
+        <mark key="^" line="129" column="51" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
@@ -58,6 +64,7 @@
       <jump line="26" column="12" filename="E:/myFootprint/slark-pring/pom.xml" />
       <jump line="0" column="0" filename="E:/myFootprint/slark-pring/pom.xml" />
       <jump line="30" column="47" filename="E:/myFootprint/slark-pring/pom.xml" />
+      <jump line="78" column="40" filename="E:/myFootprint/parking/src/test/java/cn/trawe/parking/domain/HelloTest.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -67,7 +74,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoU3RyaW5nIHVzZXIpIHsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>test</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
@@ -91,22 +98,23 @@
         <text>set keep-english-in-normal</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+        <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
