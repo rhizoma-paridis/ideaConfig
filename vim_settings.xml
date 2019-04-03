@@ -16,7 +16,7 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553913852825">
+      <file name="/Dummy.txt" timestamp="1554258333942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/dao/UserDao.java" timestamp="1554219249063">
@@ -25,18 +25,29 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="70" />
-        <mark key="^" line="8" column="70" />
-        <mark key="." line="8" column="70" />
-      </file>
       <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" timestamp="1553917881345">
         <mark key="'" line="21" column="19" />
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="43" />
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="43" />
+      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/domain/parking/ParkingTollBooth.java" timestamp="1554258743420">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="50" column="6" />
+        <mark key="^" line="50" column="6" />
+      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/service/DeviceApplyOrderService.java" timestamp="1554259162290">
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="86" column="14" />
+        <mark key="." line="86" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="70" />
+        <mark key="^" line="8" column="70" />
+        <mark key="." line="8" column="70" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/entity/ListUser.java" timestamp="1553918054046">
         <mark key="[" line="12" column="27" />
@@ -50,6 +61,10 @@
         <mark key="]" line="129" column="51" />
         <mark key="." line="129" column="51" />
         <mark key="^" line="129" column="51" />
+      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/resources/develop/datasource.properties" timestamp="1554258266480">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="39" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" timestamp="1554219342613">
         <mark key="'" line="0" column="0" />
@@ -72,41 +87,47 @@
       <jump line="0" column="0" filename="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>orderId</text>
+      </register>
+      <register name="-" type="4">
+        <text>orderId</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0ZXN0XD4=</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoU3RyaW5nIHVzZXIpIHsK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBvcmRlcklkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IG5ldyBTdHJpbmcoKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBpZ2VvbiBpcyBjb25zdW1pbmcgIiArIHRyYXNoVHlwZU5hbWUpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlBpZ2VvbiBpcyBjb25zdW1pbmcgIiArIHRyYXNoVHlwZU5hbWUpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoU3RyaW5nIHVzZXIpIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
-      </register>
-      <register name="-" type="4">
-        <text>test</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0XD4=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -125,6 +146,7 @@
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>reg</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,6 +178,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
