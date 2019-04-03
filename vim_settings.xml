@@ -61,11 +61,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="E:/myFootprint/parking/src/test/java/cn/trawe/parking/domain/HelloTest.java" timestamp="1554099293093">
+      <file name="E:/myFootprint/parking/src/test/java/cn/trawe/parking/domain/HelloTest.java" timestamp="1554283037491">
         <mark key="'" line="78" column="40" />
-        <mark key="[" line="129" column="48" />
-        <mark key="]" line="129" column="51" />
-        <mark key="." line="129" column="51" />
+        <mark key="[" line="77" column="97" />
+        <mark key="]" line="77" column="97" />
+        <mark key="." line="77" column="97" />
         <mark key="^" line="129" column="51" />
       </file>
       <file name="E:/ideaProj/parking-platform/src/main/resources/develop/datasource.properties" timestamp="1554258266480">
@@ -106,10 +106,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>PI1532334949923622424</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>PI1532334949923622424</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
