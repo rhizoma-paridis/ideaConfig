@@ -49,6 +49,10 @@
         <mark key="." line="68" column="11" />
         <mark key="^" line="68" column="11" />
       </file>
+      <file name="E:/ideaProj/parking-platform/src/main/resources/develop/system.properties" timestamp="1554284860149">
+        <mark key="[" line="24" column="104" />
+        <mark key="]" line="24" column="129" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
         <mark key="[" line="8" column="55" />
         <mark key="]" line="8" column="70" />
@@ -106,7 +110,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PI1532334949923622424</text>
+        <text>http://alipayitc.trawe.net</text>
       </register>
       <register name="-" type="4">
         <text>PI1532334949923622424</text>
@@ -114,8 +118,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CgkJY29udmVydEFtb3VudChzdGF0aXN0aWNzTGlzdCk7Cg==</text>
+      <register name="0" type="4">
+        <text>http://alipayitc.trawe.net?</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
