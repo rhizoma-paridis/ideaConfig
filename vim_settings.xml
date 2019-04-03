@@ -16,7 +16,7 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554258333942">
+      <file name="/Dummy.txt" timestamp="1554275495999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/dao/UserDao.java" timestamp="1554219249063">
@@ -42,6 +42,12 @@
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="14" />
         <mark key="." line="86" column="14" />
+      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/dao/DayDeviceStatisticsDao.java" timestamp="1554275441962">
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="11" />
+        <mark key="^" line="68" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
         <mark key="[" line="8" column="55" />
@@ -69,6 +75,17 @@
       <file name="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" timestamp="1554219342613">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/domain/parking/DayDeviceStatistics.java" timestamp="1554274688779">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="60" column="18" />
+      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/service/DayDeviceStatisticsService.java" timestamp="1554275411792">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="0" filename="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/controller/UserController.java" />
@@ -88,10 +105,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orderId</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>orderId</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
@@ -100,31 +117,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBvcmRlcklkCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBvcmRlcklkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoU3RyaW5nIHVzZXIpIHsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyU3MgPSBuZXcgU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoU3RyaW5nIHVzZXIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -181,6 +198,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
