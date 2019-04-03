@@ -38,6 +38,10 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="6" />
       </file>
+      <file name="E:/ideaProj/trawe-parking/mgmt/src/main/resources/develop/system.properties" timestamp="1554294568584">
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="36" />
+      </file>
       <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/service/DeviceApplyOrderService.java" timestamp="1554259162290">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="14" />
@@ -111,7 +115,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://alipayitc.trawe.net</text>
+        <text>2016081001726576</text>
       </register>
       <register name="-" type="4">
         <text>PI1532334949923622424</text>
