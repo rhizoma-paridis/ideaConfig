@@ -16,7 +16,7 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554275495999">
+      <file name="/Dummy.txt" timestamp="1554276714237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/dao/UserDao.java" timestamp="1554219249063">
@@ -81,10 +81,11 @@
         <mark key="." line="60" column="18" />
         <mark key="^" line="60" column="18" />
       </file>
-      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/service/DayDeviceStatisticsService.java" timestamp="1554275411792">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/service/DayDeviceStatisticsService.java" timestamp="1554276702051">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="46" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -105,43 +106,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>statisticsList</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>statisticsList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoKSB7Cg==</text>
+        <text encoding="base64">CgkJY29udmVydEFtb3VudChzdGF0aXN0aWNzTGlzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBvcmRlcklkCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBvcmRlcklkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldExpc3QoU3RyaW5nIHVzZXIpIHsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
