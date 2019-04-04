@@ -61,7 +61,11 @@
         <mark key="[" line="24" column="104" />
         <mark key="]" line="24" column="129" />
       </file>
-      <file name="E:/ideaProj/parking-platform/pom.xml" timestamp="1554364126251" />
+      <file name="E:/ideaProj/parking-platform/pom.xml" timestamp="1554373681041">
+        <mark key="[" line="109" column="54" />
+        <mark key="]" line="109" column="54" />
+        <mark key="." line="109" column="54" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1547286756412">
         <mark key="[" line="8" column="55" />
         <mark key="]" line="8" column="70" />
@@ -124,10 +128,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHJ1aWQtc3ByaW5nLWJvb3Qtc3RhcnRlcjw=</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>PI1532334949923622424</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>druid</text>
