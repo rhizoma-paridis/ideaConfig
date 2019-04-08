@@ -78,7 +78,7 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="E:/myFootprint/parking/src/test/java/cn/trawe/parking/domain/HelloTest.java" timestamp="1554283037491">
+      <file name="E:/myFootprint/parking/src/test/java/cn/trawe/parking/domain/HelloTest.java" timestamp="1554717674394">
         <mark key="'" line="78" column="40" />
         <mark key="[" line="77" column="97" />
         <mark key="]" line="77" column="97" />
@@ -121,10 +121,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>PI1538882392085016447</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>PI1538882392085016447</text>
       </register>
       <register name="/" type="4">
         <text>druid</text>
