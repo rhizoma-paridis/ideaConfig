@@ -16,7 +16,7 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554293206638">
+      <file name="/Dummy.txt" timestamp="1554777424853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/dao/UserDao.java" timestamp="1554219249063">
@@ -100,6 +100,12 @@
         <mark key="]" line="54" column="11" />
         <mark key="." line="54" column="11" />
         <mark key="^" line="54" column="11" />
+      </file>
+      <file name="E:/ideaProj/parking-api/src/main/resources/develop/datasource.properties" timestamp="1554777421256">
+        <mark key="[" line="17" column="61" />
+        <mark key="]" line="17" column="61" />
+        <mark key="^" line="17" column="61" />
+        <mark key="." line="17" column="61" />
       </file>
     </filemarks>
     <jumps>
