@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/myFootprint/slark-pring/pom.xml" timestamp="1553925597758">
@@ -9,15 +9,6 @@
         <mark key="]" line="52" column="43" />
         <mark key="^" line="52" column="43" />
         <mark key="." line="52" column="43" />
-      </file>
-      <file name="E:/myFootprint/slark-pring/src/main/webapp/WEB-INF/web.xml" timestamp="1553916902475">
-        <mark key="[" line="25" column="91" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554798350050">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/dao/UserDao.java" timestamp="1554219249063">
         <mark key="[" line="26" column="0" />
@@ -38,6 +29,48 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="6" />
       </file>
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/service/OwnerAlipayAccountService.java" timestamp="1554878306458">
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="37" column="44" />
+      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/resources/develop/system.properties" timestamp="1554284860149">
+        <mark key="[" line="24" column="104" />
+        <mark key="]" line="24" column="129" />
+      </file>
+      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/entity/ListUser.java" timestamp="1553918054046">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
+      <file name="E:/ideaProj/tw-core-refund-service/tw-core-refund-service/pom.xml" timestamp="1554364363022">
+        <mark key="'" line="154" column="0" />
+      </file>
+      <file name="E:/ideaProj/twp-opr-vehicleowner/src/main/java/cn/trawe/pay/consts/Constant.java" timestamp="1554871744054" />
+      <file name="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" timestamp="1554219342613">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/domain/parking/DayDeviceStatistics.java" timestamp="1554281754154">
+        <mark key="[" line="54" column="12" />
+        <mark key="]" line="54" column="11" />
+        <mark key="." line="54" column="11" />
+        <mark key="^" line="54" column="11" />
+      </file>
+      <file name="E:/ideaProj/parking-api/src/main/resources/develop/datasource.properties" timestamp="1554777421256">
+        <mark key="[" line="17" column="61" />
+        <mark key="]" line="17" column="61" />
+        <mark key="^" line="17" column="61" />
+        <mark key="." line="17" column="61" />
+      </file>
+      <file name="E:/myFootprint/slark-pring/src/main/webapp/WEB-INF/web.xml" timestamp="1553916902475">
+        <mark key="[" line="25" column="91" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554798350050">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/ideaProj/trawe-parking/mgmt/src/main/resources/develop/system.properties" timestamp="1554294568584">
         <mark key="[" line="76" column="21" />
         <mark key="]" line="76" column="36" />
@@ -57,10 +90,6 @@
         <mark key="." line="68" column="11" />
         <mark key="^" line="68" column="11" />
       </file>
-      <file name="E:/ideaProj/parking-platform/src/main/resources/develop/system.properties" timestamp="1554284860149">
-        <mark key="[" line="24" column="104" />
-        <mark key="]" line="24" column="129" />
-      </file>
       <file name="E:/ideaProj/parking-platform/pom.xml" timestamp="1554373681041">
         <mark key="[" line="109" column="54" />
         <mark key="]" line="109" column="54" />
@@ -71,12 +100,6 @@
         <mark key="]" line="8" column="70" />
         <mark key="^" line="8" column="70" />
         <mark key="." line="8" column="70" />
-      </file>
-      <file name="E:/myFootprint/slark-pring/src/main/java/com/xpq/slark/entity/ListUser.java" timestamp="1553918054046">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="27" />
       </file>
       <file name="E:/myFootprint/parking/src/test/java/cn/trawe/parking/domain/HelloTest.java" timestamp="1554717674394">
         <mark key="'" line="78" column="40" />
@@ -89,28 +112,10 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="39" />
       </file>
-      <file name="E:/ideaProj/tw-core-refund-service/tw-core-refund-service/pom.xml" timestamp="1554364363022">
-        <mark key="'" line="154" column="0" />
-      </file>
-      <file name="E:/ideaProj/twp-opr-vehicleowner/src/main/java/cn/trawe/pay/consts/Constant.java" timestamp="1554871744054" />
-      <file name="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" timestamp="1554219342613">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="E:/ideaProj/twp-opr-vehicleowner/pom.xml" timestamp="1554871268217">
         <mark key="'" line="17" column="31" />
       </file>
-      <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/domain/parking/DayDeviceStatistics.java" timestamp="1554281754154">
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="11" />
-        <mark key="." line="54" column="11" />
-        <mark key="^" line="54" column="11" />
-      </file>
-      <file name="E:/ideaProj/parking-api/src/main/resources/develop/datasource.properties" timestamp="1554777421256">
-        <mark key="[" line="17" column="61" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-        <mark key="." line="17" column="61" />
-      </file>
+      <file name="E:/ideaProj/parking-platform/src/main/resources/develop/application.yml" timestamp="1554878408779" />
       <file name="/fragment.java" timestamp="1554798350074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,16 +141,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PI1538882392085016447</text>
+        <text>aliParkingConfig</text>
       </register>
       <register name="-" type="4">
         <text>PI1538882392085016447</text>
       </register>
       <register name="/" type="4">
-        <text>mapper.version</text>
+        <text>aliParkingconfig</text>
       </register>
       <register name="0" type="4">
-        <text>http://alipayitc.trawe.net?</text>
+        <text>aliParkingConfig</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -179,9 +184,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mapper.version</last-search>
+      <last-search>aliParkingconfig</last-search>
       <last-offset />
-      <last-pattern>mapper.version</last-pattern>
+      <last-pattern>aliParkingconfig</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -193,6 +198,7 @@
         <entry>?druid</entry>
         <entry>druid</entry>
         <entry>mapper.version</entry>
+        <entry>aliParkingconfig</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
