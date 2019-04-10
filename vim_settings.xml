@@ -92,8 +92,12 @@
       <file name="E:/ideaProj/tw-core-refund-service/tw-core-refund-service/pom.xml" timestamp="1554364363022">
         <mark key="'" line="154" column="0" />
       </file>
+      <file name="E:/ideaProj/twp-opr-vehicleowner/src/main/java/cn/trawe/pay/consts/Constant.java" timestamp="1554871744054" />
       <file name="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" timestamp="1554219342613">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/ideaProj/twp-opr-vehicleowner/pom.xml" timestamp="1554871268217">
+        <mark key="'" line="17" column="31" />
       </file>
       <file name="E:/ideaProj/parking-platform/src/main/java/cn/trawe/parking/domain/parking/DayDeviceStatistics.java" timestamp="1554281754154">
         <mark key="[" line="54" column="12" />
@@ -107,7 +111,6 @@
         <mark key="^" line="17" column="61" />
         <mark key="." line="17" column="61" />
       </file>
-      <file name="E:/ideaProj/parking-platform/src/main/resources/develop/application.yml" timestamp="1554798391419" />
       <file name="/fragment.java" timestamp="1554798350074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,6 +131,8 @@
       <jump line="7" column="0" filename="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" />
       <jump line="0" column="0" filename="E:/myFootprint/slark-pring/src/main/resources/spring-context.xml" />
       <jump line="154" column="0" filename="E:/ideaProj/tw-core-refund-service/tw-core-refund-service/pom.xml" />
+      <jump line="21" column="31" filename="E:/ideaProj/twp-opr-vehicleowner/pom.xml" />
+      <jump line="17" column="31" filename="E:/ideaProj/twp-opr-vehicleowner/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -137,7 +142,7 @@
         <text>PI1538882392085016447</text>
       </register>
       <register name="/" type="4">
-        <text>druid</text>
+        <text>mapper.version</text>
       </register>
       <register name="0" type="4">
         <text>http://alipayitc.trawe.net?</text>
@@ -170,13 +175,13 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>/mapper.version</text>
       </register>
     </registers>
     <search>
-      <last-search>druid</last-search>
+      <last-search>mapper.version</last-search>
       <last-offset />
-      <last-pattern>druid</last-pattern>
+      <last-pattern>mapper.version</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -187,12 +192,14 @@
         <entry>durid</entry>
         <entry>?druid</entry>
         <entry>druid</entry>
+        <entry>mapper.version</entry>
       </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>/mapper.version</entry>
       </history-cmd>
       <history-expr />
       <history-input />
