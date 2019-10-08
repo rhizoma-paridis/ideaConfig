@@ -1,0 +1,7 @@
+<application>
+  <component name="EasyApiSetting">
+    <option name="postmanToken" value="" />
+    <option name="yapiServer" value="http://192.168.3.59" />
+    <option name="yapiTokens" value="#&#13;&#10;#Tue Oct 08 17:23:10 CST 2019&#13;&#10;parking-operations-service=ac39d0150e91e0e50519e8f08276cab531551ed0dc92b81703cd36d98a42e0ca&#13;&#10;ac39d0150e91e0e50519e8f08276cab531551ed0dc92b81703cd36d98a42e0ca=&#13;&#10;" />
+  </component>
+</application>
