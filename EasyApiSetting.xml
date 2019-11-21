@@ -1,7 +1,7 @@
 <application>
   <component name="EasyApiSetting">
-    <option name="postmanToken" value="73fa31a1a502a7079b0f9271ebf7aa807e01e09f7496ac82ac80049054efedc3" />
+    <option name="postmanToken" value="" />
     <option name="yapiServer" value="http://192.168.3.59" />
-    <option name="yapiTokens" value="#&#13;&#10;#Mon Nov 11 17:22:46 CST 2019&#13;&#10;parkingcloud-operations-service=73fa31a1a502a7079b0f9271ebf7aa807e01e09f7496ac82ac80049054efedc3&#13;&#10;ac39d0150e91e0e50519e8f08276cab531551ed0dc92b81703cd36d98a42e0ca=&#13;&#10;" />
+    <option name="yapiTokens" value="#&#13;&#10;#Thu Nov 21 18:52:31 CST 2019&#13;&#10;fde0a2e9a7a3281cd7094be3b88ccccb85d8c81cadd6367b78187629530b1d0e=&#13;&#10;parkingcloud-base-service=fde0a2e9a7a3281cd7094be3b88ccccb85d8c81cadd6367b78187629530b1d0e&#13;&#10;" />
   </component>
 </application>
