@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The minimum radix available for conversion to and from strings. * The constant value of this field is the smallest value permitted * for the radix argument in radix-conversion methods such as the * {@code digit} method, the {@code forDigit} method, and the * {@code toString} method of class {@code Integer}." />
       <item value="If ArrayLists were immutable, or structurally immutable (no * adds, removes, etc), we could implement their spliterators * with Arrays.spliterator. Instead we detect as much * interference during traversal as practical without * sacrificing much performance. We rely primarily on * modCounts. These are not guaranteed to detect concurrency * violations, and are sometimes overly conservative about * within-thread interference, but detect enough problems to * be worthwhile in practice. To carry this out, we (1) lazily * initialize fence and expectedModCount until the latest * point that we need to commit to the state we are checking * against; thus improving precision. (This doesn't apply to * SubLists, that create spliterators with current non-lazy * values). (2) We perform only a single * ConcurrentModificationException check at the end of forEach * (the most performance-sensitive method). When using forEach * (as opposed to iterators), we can normally only detect * interference after actions, not before. Further * CME-triggering checks apply to all other possible * violations of assumptions for example null or too-small * elementData array given its size(), that could only have * occurred due to interference. This allows the inner loop * of forEach to run without any further checks, and * simplifies lambda-resolution. While this does entail a * number of checks, note that in the common case of * list.stream().forEach(a), no checks or other computation * occur anywhere other than inside forEach itself. The other * less-often-used methods cannot take advantage of most of * these streamlinings." />
       <item value="Internal" />
       <item value="ensure" />
@@ -38,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
