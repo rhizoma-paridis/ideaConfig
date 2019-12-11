@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="SendEOF" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
