@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="produces" />
       <item value="competing" />
       <item value="Unsatisfied" />
       <item value="The minimum radix available for conversion to and from strings. * The constant value of this field is the smallest value permitted * for the radix argument in radix-conversion methods such as the * {@code digit} method, the {@code forDigit} method, and the * {@code toString} method of class {@code Integer}." />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
